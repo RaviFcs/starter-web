@@ -16,6 +16,8 @@ This is a simple web project, deloyment can be on any web server or even local f
 
 ## How to Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 
 2020 Git Training
